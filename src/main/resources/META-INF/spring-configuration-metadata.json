@@ -1,0 +1,9 @@
+{
+  "groups": [
+    {
+      "name": "minio",
+      "type": "com.aisino.minio.MinioProperties",
+      "sourceType": "com.aisino.minio.MinioProperties"
+    }
+  ]
+}
