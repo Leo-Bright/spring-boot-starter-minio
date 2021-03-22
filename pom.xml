@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.aisino</groupId>
-    <artifactId>spring-cloud-minio-starter</artifactId>
+    <artifactId>spring-boot-minio-starter</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>Minio AutoConfiguration Starter</name>
